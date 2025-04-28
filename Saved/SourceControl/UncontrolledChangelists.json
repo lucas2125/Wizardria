@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/StarterContent/Maps/Level1.umap",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Flipendo_Box_1.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Flipendo_Box_2.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Alohomora_Door_1.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/Scenario_assets/Holed_Floor_800x800.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/Scenario_assets/lambert1.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/Scenario_assets/Floor_1000x1000.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/Scenario_assets/Floor_800x1000.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Tortoise_Door_1.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Tortoise_Button.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Needles_1.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Tortoise.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Alohomora_Door_2.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Flipendo_Button.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Trap_Platform.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Tortoise_Button.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Tortoise.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Alohomora_Door_1.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Alohomora_Door_2.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Flipendo_Box_1.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Flipendo_Box_2.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Flipendo_Button.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/BP_Trap_Platform.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Spells/BP_Rictusempra.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Spells/BP_Flipendo.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Doors/BP_Alohomora_Door_1.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Doors/BP_Alohomora_Door_2.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/HP_GameObjects/Doors/BP_FinalDoor.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/StarterContent/Maps/Nivel1.umap",
+				"Z:/Tareas de Mariel/Programacion/GitHub_Projects/Unreal_Proyects/Wizardria/Content/StarterContent/Maps/NewWorld.umap"
+			]
+		}
+	]
+}
